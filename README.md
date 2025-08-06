@@ -1,5 +1,3 @@
-OpenCV (Open Source Computer Vision Library) is a powerful tool for image and video processing, and with your Python knowledge, you'll be able to pick it up quickly.
-
 Here’s a step-by-step roadmap to become an expert in OpenCV using Python:
 
 📍 Step 1: Getting Started with OpenCV
@@ -12,12 +10,6 @@ Read, display, and write images and videos.
 Resize, rotate, crop images.
 
 Convert between color spaces (BGR, Grayscale, HSV, etc.).
-
-Practice:
-
-python
-Copy
-Edit
 import cv2
 
 img = cv2.imread('image.jpg')
